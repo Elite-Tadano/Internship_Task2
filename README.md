@@ -26,4 +26,4 @@
 This email has multiple phishing traits and should be marked as spam. Users must not click on any links or reply.
 
 **Note** - 
-I am attaching the email used in analysis, please refer to it for furthur investigation of necessary. 
+I am attaching the email used in analysis, please refer to it for further investigation of necessary. 
